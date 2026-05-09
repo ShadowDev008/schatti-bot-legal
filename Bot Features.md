@@ -5,6 +5,7 @@ A multifunctional Discord bot with moderation, automod, utility, fun, ticket, an
 ## Bot Information
 - **Version:** `1.0`
 - **Primary Language:** `German`
+- **Support Server:** `https://discord.gg/czGP5NHQGA`
 
 ---
 
